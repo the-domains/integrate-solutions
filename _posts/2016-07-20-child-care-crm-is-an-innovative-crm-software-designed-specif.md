@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-20T19:08:46.804Z'
+datePublished: '2016-07-20T19:08:47.131Z'
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/73399885-7d9e-47b7-8173-f6e3c2c136b9.png
 author: []
 via: {}
-dateModified: '2016-07-20T19:08:46.697Z'
+dateModified: '2016-07-20T19:08:46.772Z'
 title: ''
 publisher: {}
 description: >-
